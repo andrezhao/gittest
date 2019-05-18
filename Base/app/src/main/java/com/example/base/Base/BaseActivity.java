@@ -62,10 +62,7 @@ public class BaseActivity extends AppCompatActivity implements View.OnClickListe
       return 0;
    }
 
-
-
-
-
+   
    @Override
    public void onCreate(Bundle savedInstanceState) {
    super.onCreate(savedInstanceState);
