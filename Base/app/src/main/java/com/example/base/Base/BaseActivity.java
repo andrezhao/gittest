@@ -61,7 +61,7 @@ public class BaseActivity extends AppCompatActivity implements View.OnClickListe
    public int getPermissionsRequestCode() {
       return 0;
    }
-  kkkkkkkkkkk
+  kkkkkkkkkkk nnnnnnnnnn
    // 提交到firstBranch
    @Override
    public void onCreate(Bundle savedInstanceState) {
