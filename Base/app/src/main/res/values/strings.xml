@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Base</string>
+    <string name="dialog_title">Title</string>
+    <string name="dialog_message">Message</string>
+    <string name="dialog_negative_button">OK</string>
+    <string name="dialog_positive_button">CANCEL</string>
+
+
+</resources>
